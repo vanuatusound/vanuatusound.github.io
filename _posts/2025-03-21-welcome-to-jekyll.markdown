@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Vanuatu Sound!"
 date:   2025-03-21 20:23:41 +1100
 categories: jekyll update
 ---
