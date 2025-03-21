@@ -44,3 +44,32 @@ footer {
   text-align: center;
   padding: 10px;
 }
+
+.site-header {
+    background: #ff0000;  // Red background
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+  .site-title {
+    color: #ffcc00;  // Yellow title
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 2px 2px #008000;  // Green shadow effect
+  }
+  
+  .site-nav .page-link {
+    color: #ffcc00;  // Yellow links
+    font-weight: bold;
+    padding: 10px;
+    text-transform: uppercase;
+  }
+  
+  .site-nav .page-link:hover {
+    color: #008000;  // Green hover effect
+  }
+  
+  .menu-icon path {
+    fill: #ffcc00;  // Yellow menu icon
+  }
+  
