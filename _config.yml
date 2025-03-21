@@ -1,7 +1,7 @@
 title: Vanuatu Sound
 email: vanuatusound@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Vanuatu Sound is your go-to blog for the latest on Port Vila's vibrant music scene
+  Vanuatu Sound is your go-to blog for the latest on Port Vila's vibrant music scene.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vanuatusound
