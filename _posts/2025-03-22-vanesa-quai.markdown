@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vanessa Quai - Hemi Oraet (Official Video) Feat Young Davie"
+title:  "Vanessa Quai - Hemi Oraet Feat Young Davie"
 date:   2025-03-22 20:40:41 +1100
 categories: music
 ---
