@@ -33,3 +33,15 @@
   </div>
 
 </footer>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const menuToggle = document.querySelector(".menu-toggle");
+    const nav = document.querySelector(".site-nav");
+
+    menuToggle.addEventListener("click", () => {
+        nav.classList.toggle("active");
+        document.body.classList.toggle("no-scroll"); // Prevents scrolling
+    });
+});
+</script>
