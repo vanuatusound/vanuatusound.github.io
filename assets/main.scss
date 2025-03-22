@@ -60,7 +60,7 @@ h1, h2, h3 {
     padding: 15px 30px;
     box-shadow: 0px 4px 15px var(--shadow-color);
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start; /* Align content to the left */
     align-items: center;
     position: fixed;
     width: 100%;
@@ -174,7 +174,7 @@ h1, h2, h3 {
         display: block;
         width: 100%;
     }
-
+    
     .menu-toggle {
         display: block;
     }
@@ -205,7 +205,7 @@ button:hover {
 footer {
     background: var(--header-bg);
     color: #bbb;
-    text-align: center;
+    text-align: left; /* Align text to the left */
     padding: 15px;
     font-size: 14px;
     border-top: 3px solid var(--secondary-color);
